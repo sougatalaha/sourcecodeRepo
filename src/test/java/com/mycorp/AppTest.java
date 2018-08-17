@@ -25,9 +25,11 @@ public class AppTest extends TestCase {
         return new TestSuite(AppTest.class);
     }
 
-    /**
-     * Rigourous Test :-)
+    /** 
+     * Overwhelming complex test, which covers my
+     * product requirement #1
      */
+    // Trace(GitHub:doergn/sourcecodeRepo#1)
     public void testApp() {
         assertTrue(true);
     }
