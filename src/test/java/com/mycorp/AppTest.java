@@ -34,4 +34,8 @@ public class AppTest extends TestCase {
         assertTrue(true);
     }
 
+    // Trace(GitHub:doergn/sourcecodeRepo#2)
+    public void testApp2() {
+        assertTrue(true);
+    }
 }
