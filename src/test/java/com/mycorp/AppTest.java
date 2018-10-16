@@ -36,6 +36,6 @@ public class AppTest extends TestCase {
 
     // Trace(GitHub:sougatalaha/sourcecodeRepo#2)
     public void testApp2() {
-        assertTrue(true);
+        assertTrue(false);
     }
 }
