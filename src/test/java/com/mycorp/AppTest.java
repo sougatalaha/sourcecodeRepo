@@ -29,12 +29,12 @@ public class AppTest extends TestCase {
      * Overwhelming complex test, which covers my
      * product requirement #1
      */
-    // Trace(GitHub:doergn/sourcecodeRepo#1)
+    // Trace(GitHub:sougatalaha/sourcecodeRepo#1)
     public void testApp() {
         assertTrue(true);
     }
 
-    // Trace(GitHub:doergn/sourcecodeRepo#2)
+    // Trace(GitHub:sougatalaha/sourcecodeRepo#2)
     public void testApp2() {
         assertTrue(true);
     }
